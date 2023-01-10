@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @CoinstantinKoz
-- 👀 I’m interested in ... coding/web design
+- 👋 Hi, I’m @CozyCode
+- 👀 I’m interested in ... coding/web dev/web and app design
 - 🌱 I’m currently learning ... js
 - 💞️ I’m looking to collaborate on ... future web development
 - 📫 How to reach me ... easy

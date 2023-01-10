@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @CozyCode
+- 👋 Hi, I’m @Codestantin
 - 👀 I’m interested in ... coding/web and app dev/web and app design
-- 🌱 I’m currently learning ... js
-- 💞️ I’m looking to collaborate on ... future web development
+- 🌱 I’m currently learning ... few stuff
+- 💞️ I’m looking to collaborate on ... future web app development
 - 📫 How to reach me ... easy
 
 <!---
